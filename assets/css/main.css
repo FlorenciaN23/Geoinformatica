@@ -2731,7 +2731,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("/images/tec_geoinf_1.jpg");
+			background-image: url("images/overlay.png"), url("images/tec_geoinf_1.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
