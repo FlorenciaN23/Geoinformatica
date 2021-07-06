@@ -3087,7 +3087,7 @@
 	#banner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("/images/saocom.png");
+		background-image: url("images/overlay.png"), url("images/saocom.png");
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
@@ -3170,7 +3170,7 @@ body.is-touch #banner-contact {
 #banner-contact {
 	padding: 16em 0 13em 0;
 	background-attachment: fixed;
-	background-image: url("images/overlay.png"), url("/images/Saocom-Satelites-.jpg");
+	background-image: url("images/overlay.png"), url("images/Saocom-Satelites-.jpg");
 	background-position: center top;
 	background-size: cover;
 	line-height: 1.75;
